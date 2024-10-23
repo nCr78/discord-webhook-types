@@ -1,0 +1,24 @@
+{
+  "name": "discord-webhook-types",
+  "version": "0.0.1",
+  "author": "El. Krm",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nCr78/discord-webhook-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nCr78/discord-webhook-types/issues"
+  },
+  "keywords": [
+    "discord",
+    "discord webhooks",
+    "typescript",
+    "webhooks",
+    "typings",
+    "definitions"
+  ],
+  "projects": [
+    "https://github.com/nCr78/discord-webhook-types"
+  ]
+}
